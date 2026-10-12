@@ -1,0 +1,5 @@
+services:
+  backend:
+    image: mineops-backend
+  frontend:
+    image: mineops-frontend
